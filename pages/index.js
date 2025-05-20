@@ -188,7 +188,7 @@ export default function Home() {
             <h2>📍 Personalize sua jornada fitness!</h2>
             <p>Ative sua localização e receba dicas e treinos para sua região.</p>
             <button onClick={solicitarLocalizacao} className={styles.modalButton}>
-              Ativar Localização
+              OK
             </button>
           </div>
         </div>
