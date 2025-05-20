@@ -148,12 +148,12 @@ export default function Home() {
     
 <>
     <Head>
-        <title>Calculadora de IMC - Rafael Fernandes</title>
+        <title>Calculadora de IMC</title>
         <meta name="description" content="Calcule seu IMC e receba dicas personalizadas com Rafael Fernandes" />
       </Head>
 
     <div className={styles.container}>
-      <h1 className={styles.title}>Calculadora de IMC - Rafael Fernandes</h1>
+      <h1 className={styles.title}>Calculadora de IMC</h1>
       <p>{mensagem}</p>
 
       <div className={styles.inputContainer}>
